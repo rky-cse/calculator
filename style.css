@@ -36,14 +36,17 @@
     border-radius: 10px;
     height: 90px;
 }
-.input{
+#input{
     background-color: blanchedalmond;
     height: 45px;
     border-radius: 10px;
 
 }
-.output{
+#output{
     background-color: bisque;
     height: 45px;
     border-radius:10px;
+}
+.grid-item.red{
+    background-color: red;
 }

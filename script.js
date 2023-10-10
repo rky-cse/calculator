@@ -30,6 +30,8 @@ for (let i = 0; i < gridItems.length; i++) {
        }
        if(i==12){
         document.getElementById('input').append(0);
+        ans=(ans*10)+0;
+
        }
        if(i==13){
         document.getElementById('input').append('.');
